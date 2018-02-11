@@ -1,5 +1,5 @@
 /*
- * StudentEdited.java
+ * StudentEditedFOrSecond.java
  */
 
 package com.tx.simplescheduling.model;
